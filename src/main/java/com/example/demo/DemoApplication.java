@@ -17,6 +17,4 @@ public class DemoApplication {
 		
 		System.out.println("<<< App Started on port 8888 >>>>");
 	}
-
 }
- x
