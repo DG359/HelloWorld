@@ -15,7 +15,7 @@ public class DemoApplication {
 		application.setDefaultProperties(Collections.singletonMap("server.port", "8888"));
 		application.run(args);
 		
-		System.out.println("<<< App Started >>>>");
+		System.out.println("<<< App Started on port 8888 >>>>");
 	}
 
 }
